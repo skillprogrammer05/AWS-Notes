@@ -14,5 +14,5 @@ cloud is a service that can provide services like networking,storage,database,se
 - **user**: A person who want to use the service in the cloud
 - **Group**: Instead of giving the permissions to the users individually we are adding them into the group and attach the policy
 - **Policy**: A permission attached to user or a group to perform the specific operation in the cloud
-- <img width="388" height="412" alt="image" src="https://github.com/user-attachments/assets/2e16563e-d98e-4584-83df-902f8d303221" />
+
 
