@@ -10,7 +10,7 @@ cloud is a service that can provide services like networking,storage,database,se
 # 2.Private cloud
 > it can be used by only the persons within organization outside persons can't able to access and use the services were organization will maintain the infrastructure by their own.
 # IAM
-> it is used to authenticate and authorize the user
-**user**: A person who want to use the service in the cloud.
-**Group**: Instead of giving the permissions to the users individually we are adding them into the group and attach the policy.
+> it is used to authenticate and authorize the user.
+**user**: A person who want to use the service in the cloud
+**Group**: Instead of giving the permissions to the users individually we are adding them into the group and attach the policy
 **Policy**: A permission attached to user or a group to perform the specific operation in the cloud
