@@ -5,7 +5,7 @@ cloud is a service that can provide services like networking,storage,database,se
 2. Azure
 3. GCP
 # Difference between Public cloud and Private cloud?
-# 1.public cloud
+# 1.Public cloud
 > Any user with account id can able to access the cloud and use the services without restrictions.
 # 2.Private cloud
 > it can be used by only the persons within organization outside persons can't able to access and use the services were organization will maintain the infrastructure by their own.
